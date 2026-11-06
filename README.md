@@ -1,5 +1,7 @@
 # AnkiTUI
 
+[![AI-DECLARATION: auto](https://img.shields.io/badge/䷼%20AI--DECLARATION-auto-ede9fe?labelColor=ede9fe)](https://ai-declaration.md)
+
 A terminal client for [Anki](https://apps.ankiweb.net) collections, built with
 [Textual](https://textual.textualize.io). Its scheduling follows Anki desktop
 and [AnkiDroid](https://github.com/ankidroid/Anki-Android): both use Anki's Rust
